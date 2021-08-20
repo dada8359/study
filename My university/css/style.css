@@ -91,10 +91,16 @@ float: right; margin-right: -50px;}
 .container>ul>li:nth-child(2n){background:pink;}
 
 .container>ul>li:nth-child(1){width: 75%;height: 450px;font-family: 'Noto Sans KR', sans-serif;}
-.container>ul>li:nth-child(1) .txt{position: absolute; top: 30px; background-color: aquamarine; left: 80px; margin-top: 30px;}
+.container>ul>li:nth-child(1) .txt{position: absolute; top: 30px; _background-color: aquamarine; left:100px; margin-top: 30px;}
 .container>ul>li:nth-child(1) .txt p{font-size: 60px; color:#1651B6 ; line-height: 70px; font-weight:100;}
 .container>ul>li:nth-child(1) .txt .bold{font-weight:500;}
-.container>ul>li:nth-child(2){height: 450px;}
+.container>ul>li:nth-child(1) .txt a{display: block;width: 170px;line-height: 40px;text-align: center;background: #1A2E4F;color:#fff;
+  font-weight: 300; margin-top: 40px; font-size: 18px;}
+
+.container>ul>li:nth-child(1) .txt2{position: absolute; top: 30px; _background-color: aquamarine; left:100px; margin-top: 30px;}
+.container>ul>li:nth-child(1) .txt2{position: absolute; top: 30px; _background-color: aquamarine; left:100px; margin-top: 30px;}
+.container>ul>li:nth-child(1) .txt2 p{font-size: 60px; color:lightseagreen ; line-height: 70px; font-weight:bold;}
+.container>ul>li:nth-child(1) .txt2 .bold{font-weight:100}
 .container>ul>li:nth-child(3){}
 .container>ul>li:nth-child(4){}
 .container>ul>li:nth-child(6){}
