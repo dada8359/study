@@ -90,7 +90,7 @@ float: right; margin-right: -50px;}
 .container li{float: left; width: 25%; height: 225px;}
 .container>ul>li:nth-child(2n){background:pink;} 
 
-.container>ul>li:nth-child(1) {width: 75%; background-color: wheat;}
+.container>ul>li:nth-child(1) {width: 75%; height: 450px; background-color: wheat;}
 .container>ul>li:nth-child(2){ height: 450px;background-color: turquoise; }
 .container>ul>li:nth-child(3){}
 .container>ul>li:nth-child(4){}
