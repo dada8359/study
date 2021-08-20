@@ -114,9 +114,9 @@ float: right; margin-right: -50px;}
 
 
 
-.container>ul>li:nth-child(2){height: 450px;}
-
-.container>ul>li:nth-child(2) img{margin-top;px}
+.container>ul>li:nth-child(2) .appTxt{ position: absolute; background-color: blue; width: 400px; height: 200px; top:400px; margin-left: 20px;}
+.container>ul>li:nth-child(2) .appTxt p{display:block; color: white; font-size: 40px; line-height: 50px; font-weight:lighter;}
+.container>ul>li:nth-child(2) .appTxt .bold2 {font-weight: bold;}
 .container>ul>li:nth-child(3){}
 .container>ul>li:nth-child(4){}
 .container>ul>li:nth-child(6){}
