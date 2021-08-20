@@ -95,13 +95,13 @@ float: right; margin-right: -50px;}
 .container>ul>li:nth-child(1) .txt p{font-size: 60px; color:#1651B6 ; line-height: 70px; font-weight:100;}
 .container>ul>li:nth-child(1) .txt .bold{font-weight:500;}
 .container>ul>li:nth-child(1) .txt a{display: block;width: 170px;line-height: 40px;text-align: center;background: #1A2E4F;color:#fff;
-  font-weight: 300; margin-top: 40px; font-size: 18px;}
+  font-weight: 300; margin-top: 40px; font-size: 14px;}
 
 .container>ul>li:nth-child(1) .txt2{position: absolute; top: 30px; _background-color: aquamarine; left:100px; margin-top: 30px; width: 500px; }
 .container>ul>li:nth-child(1) .txt2 p{font-size: 60px; color: #4C4C4C ; line-height: 70px; font-weight:bold;}
 .container>ul>li:nth-child(1) .txt2 .bold{font-weight:100}
 .container>ul>li:nth-child(1) .txt2 a{display: block;width: 170px;line-height: 40px;text-align: center;background:#4C4C4C;color:#fff;
-  font-weight: 300; margin-top: 40px; font-size: 18px;}
+  font-weight: 300; margin-top: 40px; font-size: 14px;}
 
 
   .container>ul>li:nth-child(1) .txt3{position: absolute; top: 30px; _background-color: aquamarine; left:100px; margin-top: 100px; width: 500px; }
@@ -109,14 +109,16 @@ float: right; margin-right: -50px;}
   .container>ul>li:nth-child(1) .txt3 .bold{font-weight:100}
   .container>ul>li:nth-child(1) .txt3 a{display: block;width: 170px;line-height: 40px;text-align: center; background-color: darkblue;
     color:#fff;
-    font-weight: 300; margin-top: 40px; font-size: 18px;}
+    font-weight: 300; margin-top: 40px; font-size: 14px;}
 
 
 
 
-.container>ul>li:nth-child(2) .appTxt{ position: absolute; background-color: blue; width: 400px; height: 200px; top:400px; margin-left: 20px;}
+.container>ul>li:nth-child(2) .appTxt{ position: absolute; _background-color: blue; width: 400px; height: 200px; top:400px; margin-left: 20px;}
 .container>ul>li:nth-child(2) .appTxt p{display:block; color: white; font-size: 40px; line-height: 50px; font-weight:lighter;}
 .container>ul>li:nth-child(2) .appTxt .bold2 {font-weight: bold;}
+.container>ul>li:nth-child(2) .appTxt  h4{font-size: 14px; margin-top: 20px; color: white; line-height: 20px; font-weight: lighter;}
+.container>ul>li:nth-child(2) .appTxt  a{font-size: 14px;display: block;width: 170px;line-height: 40px;text-align: center; background-color:black; color: white; margin-top: 30px;}
 .container>ul>li:nth-child(3){}
 .container>ul>li:nth-child(4){}
 .container>ul>li:nth-child(6){}
