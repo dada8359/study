@@ -177,6 +177,7 @@ padding: 0 20px;}
 /*planBox*/
 .planBox {width: 1200px; background-color: white; margin: 0 auto; margin-top: 30px; height: 40px; }
 .ptbox01 {float: left; background-color: #1A2E4F; width: 270px; height: 50px; margin-left: 30px; } /*선만들기 물어보기*/ 
+.line img{ position: absolute;   margin-left:260px;  _background-color: antiquewhite; top: 1270px; height: 45px;} 
 .ptbox01 p{float: left; font-size: 18px; padding: 0 10px; margin-top:10px; background-color: aqua; text-align: center; display: block;}
 .ptbox01 img{float: left; margin-top:10px;padding: 0 10px;}
 
