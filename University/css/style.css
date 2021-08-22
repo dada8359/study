@@ -190,13 +190,14 @@ padding: 0 20px;}
 
 /*footer*/
 
-.footerWrap {width: 1200px; height: 200px; background-color: blue;  margin: 0 auto; margin-top: 130px}
-.fbox01{background-color: cadetblue; float:left; margin-top: 20px; height: 30px;}
-.footer01{background-color: #FF4B3C;margin-left:300px;}
+.footerWrap {width: 1200px; height: 200px; _background-color: blue;  margin: 0 auto; margin-top: 130px}
+.fbox01{_background-color: cadetblue; float:left; margin-top: 20px; height: 30px;}
+.footer01{_background-color: #FF4B3C;margin-left:300px;}
 .footer01 li{ padding: 0 10px; text-align: center; display: block; float: left; }
+
 .fbox01 a{display: block; margin-top: 10px;}
 
-.fbox02{background-color: darkgreen; margin-top: 10px; width: 1200px; float: right; }
+.fbox02{_background-color: darkgreen; margin-top: 10px; width: 1200px; float: right; }
 .fbox02 p{float: right; line-height: 30px; margin-right: 90px;}
 
-.copyright{background-color: darkkhaki; line-height: 30px; font-weight: bold; color: #4C4C4C;}
+.copyright{_background-color: darkkhaki; line-height: 30px; font-weight: bold; color: #4C4C4C;}
