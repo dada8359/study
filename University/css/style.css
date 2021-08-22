@@ -183,3 +183,4 @@ padding: 0 20px;}
 
 .ptbox02 {width: 1200px; background-color: #FF4B3C; }
 .ptbox02 p{float: left; padding: 0 20px; margin-top: 15px;}
+.ptbox02 .but{   background-color: aqua; float: right; margin-right: 30px;}
