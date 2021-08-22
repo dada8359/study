@@ -185,3 +185,16 @@ padding: 0 20px;}
 .ptbox02 p{float: left; padding: 0 20px; margin-top: 15px;}
 .ptbox02 .but{ height: 10px; float: right; margin-right: 30px;}
 .ptbox02 .but .im1{margin-top:1px;}
+
+
+
+/*footer*/
+
+.footerWrap {width: 1200px; height: 300px; background-color: blue;  margin: 0 auto; margin-top: 130px}
+.fbox01{background-color: cadetblue; float:right; margin-top: 20px;}
+.fbox01 li{background-color: cornflowerblue; float: right; padding: 0 10px; margin-left: 50px;}
+
+.fbox02{background-color: darkgreen; margin-top: 50px; width: 1200px; float: right; }
+.fbox02 p{float: right; line-height: 30px; margin-right: 80px;}
+
+.copyright{background-color: darkkhaki; line-height: 30px;}
